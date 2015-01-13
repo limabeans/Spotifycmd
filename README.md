@@ -10,8 +10,7 @@ Tiny scripts for controlling Spotify on the command line
 ## If you don't have a place to put your scripts
 
 <code>mkdir ~/bin</code> <br>
-<code>cp prev ~/bin</code><br>
-<code>cp pause ~/bin</code><br>
+<code>cp prev pause ~/bin</code><br>
 <code>cd ~/bin</code><br>
 <code>chmod u+x prev pause</code><br>
 <code>PATH=$PATH:~/bin</code> 
