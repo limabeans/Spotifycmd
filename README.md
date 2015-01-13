@@ -1,5 +1,5 @@
 # Spotifycmd
-Tiny scripts for controlling Spotify on the command line
+Tiny scripts for controlling Spotify on the command line on Linux
 
 ## Installing
 
@@ -11,9 +11,9 @@ Tiny scripts for controlling Spotify on the command line
 <code>cp pause ~/bin</code><br>
 <code>cd ~/bin</code><br>
 <code>chmod u+x prev pause</code><br>
-<code>PATH=$PATH:~/bin</code> (add <code>~/bin</code> to end of <code>$PATH</code><br>)
+<code>PATH=$PATH:~/bin</code> (add <code>~/bin</code> to end of your <code>$PATH</code>)
 
-<code>xdotool search --name "Spotify - Linux Preview"</code>. Might need to be tweaked depending on whether you're a Premium user or not.
+<code>xdotool search --name "Spotify - Linux Preview"</code> within each script might need to be tweaked depending on whether you're a Premium user or not.
 
 ## Commands
 
