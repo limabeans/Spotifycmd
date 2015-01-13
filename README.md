@@ -7,7 +7,7 @@ Tiny scripts for controlling Spotify on the command line
 <code>git clone https://github.com/limabeans/Spotifycmd.git</code><br>
 <code>cd Spotifycmd</code><br>
 
-### If you don't have a place to put your scripts
+## If you don't have a place to put your scripts
 
 <code>mkdir ~/bin</code> <br>
 <code>cp prev ~/bin</code><br>
