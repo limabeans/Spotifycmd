@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xdotool key --window $(xdotool search --name "Spotify - Linux Preview" ) XF86AudioPrev
